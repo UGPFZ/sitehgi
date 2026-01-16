@@ -1,0 +1,7 @@
+{
+  "name": "HGI Zambonini - Entrega de Gás GLP",
+  "description": "Site institucional profissional para a HGI Zambonini, revendedora de gás GLP em Indaiatuba e Porto Feliz.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
